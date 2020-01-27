@@ -1,0 +1,8 @@
+name: SAONationBank
+version: 0.1
+author: Zero
+description: Simples plugin para manusear seu dinheiro.
+main: com.enjin.saonationtemplate.Main
+commands:
+  bank:
+    description: comando usado para gerenciar seu dinheiro.
